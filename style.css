@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    color: rgb(133, 78, 78);
+}
+
+a {
+    color: rgb(133, 78, 78);
+    text-decoration: none;
+}
+
+article a{
+    color: blue;
+
+}
+
+.nazev{
+    color: blue;
+}
+
+.picture{
+    width: 100px;
+}
+
+#úvod{
+    background-color: lightblue;
+}
